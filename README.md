@@ -1,6 +1,6 @@
-# quiz_app
+# Flutter Quiz App
 
-A new Flutter project.
+A Native Mobile Application For Android Inspired By Quizziz.
 
 ## Getting Started
 
